@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-06-22T05:14:02.767963062Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-06-22T05:28:10.650855191Z",
     "templateType": "full_banner_wipe",
     "propertyId": "795ca91f-550e-4564-b245-bcb2a38aa884",
     "homepageId": "5d0bab37-c08c-4b7c-98b8-0fc6a810f186"
@@ -341,6 +341,47 @@
             "id": "ea04b96c-4f29-4f37-95ba-98e65133c8b1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e5a25abd-c869-4c92-b6ac-b770564ba74e/main/1781851726076-e9pzmuxtdp.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "17e6ab40-7d01-46e4-9fd6-5a58cb9a2796",
+        "name": "계곡",
+        "description": "펜션 바로 앞 계곡에서 시원한 물놀이와 자연의 여유를 함께 즐겨보세요.",
+        "usageGuide": " ",
+        "displayOrder": 5,
+        "images": [
+          {
+            "id": "3a3cc7c7-d415-4952-9c6a-b0899bbe80e1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068418-5b75b4v7p1.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "87c1d79a-8c3c-46cc-94e0-3607f6db9474",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068391-vz7351pdej.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "19561195-3b28-4d38-9e52-095d53a84899",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068415-0evqhz4cib.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6873a6ac-57d0-4450-a2cc-686b9a102ebf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068419-0ckwwegb7k.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
