@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-06-22T06:35:04.014751864Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-06-23T08:55:16.674085868Z",
     "templateType": "full_banner_wipe",
     "propertyId": "795ca91f-550e-4564-b245-bcb2a38aa884",
     "homepageId": "5d0bab37-c08c-4b7c-98b8-0fc6a810f186"
   },
   "property": {
     "id": "795ca91f-550e-4564-b245-bcb2a38aa884",
-    "name": "가평 이룸 펜션",
+    "name": "가평 이룸 독채 펜션",
     "nameEn": "Gapyeong Irum Pension",
     "description": "가평 칼봉산계곡 인근의 자연 속 펜션으로, 힐링과 진정한 쉼이 있는 공간 이룸 펜션",
     "subtitle": "가평 칼봉산계곡 인근의 자연 속 펜션으로, 힐링과 진정한 쉼이 있는 공간 이룸 펜션",
@@ -218,96 +218,40 @@
         ]
       },
       {
-        "id": "2d1f9625-b5b0-49ac-a741-c6f1a19303b9",
-        "name": "부대시설",
-        "description": "-",
-        "usageGuide": "[매점]\n- 이용 시간: 08:00 ~ 23:00\n- 판매 품목: 라면, 주류, 음료, 아이스크림, 얼음, 일회용품, 기본 양념\n[카페]\n- 이용 시간: 09:00 ~ 21:00\n[야외노래방]\n- 이용 시간: 입실 ~ 23:00\n- 이용 요금: 1시간 30,000원 (1박기준/현장결제)\n[대형룸 객실 시설]\n- 노래방: 1시간 50,000원 / 이용 시간 ~23:00\n- 빔프로젝터: 50,000원\n- 악기+프로젝트: 150,000원 (관계자 외 만질 수 없음, 필요시 상의 필요, 드럼 사용 시 개인 스틱 지참 필요)\n- 실외등 23:00 소등",
+        "id": "17e6ab40-7d01-46e4-9fd6-5a58cb9a2796",
+        "name": "계곡",
+        "description": "펜션 바로 앞 계곡에서 시원한 물놀이와 자연의 여유를 함께 즐겨보세요.",
+        "usageGuide": " ",
         "displayOrder": 3,
         "images": [
           {
-            "id": "fcbbff87-ab76-4a37-9a0d-0e9d691d439a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850601958-v1raoabj62.jpg",
+            "id": "3a3cc7c7-d415-4952-9c6a-b0899bbe80e1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068418-5b75b4v7p1.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "74b8cc91-4ef6-411f-8df1-4a227f1d5844",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850601987-5s31oo6an9.jpg",
+            "id": "87c1d79a-8c3c-46cc-94e0-3607f6db9474",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068391-vz7351pdej.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "8ec44576-2c5e-4b06-974b-0fa92f8c17b2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850601978-k2b9t8s0v3.jpg",
+            "id": "19561195-3b28-4d38-9e52-095d53a84899",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068415-0evqhz4cib.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "02d8059a-9a8b-4c3d-b49d-135933f7b10a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850601980-mjsdlv4px8.jpg",
+            "id": "6873a6ac-57d0-4450-a2cc-686b9a102ebf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068419-0ckwwegb7k.jpg",
             "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "19e617a9-cbe1-480d-9207-5975d4b4f6ce",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850601981-2hhi4v25k8.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "8712b61d-b4fc-414c-834a-7d3d044f2c62",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850601997-aaha0pwuic.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "ef1dbf1e-dcda-4fcc-97f1-9b91c436d35a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850602041-95g7bxg1o9.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "60e04e8a-bafb-46d1-bff7-d7e35d02cc34",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850602077-mr2owbtxbp.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "61a88b23-e6ab-467a-96dc-e2747e548afc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850602077-szhasiam7k.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "6a0c87c8-4ecd-4682-a5e4-229793cd62d8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850602079-zqs3dpgs23.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "cab1af3f-3da8-41b5-b6fc-8ba1c8cc8f73",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1781850602081-oa90ie45k6.jpg",
-            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -348,40 +292,147 @@
         ]
       },
       {
-        "id": "17e6ab40-7d01-46e4-9fd6-5a58cb9a2796",
-        "name": "계곡",
-        "description": "펜션 바로 앞 계곡에서 시원한 물놀이와 자연의 여유를 함께 즐겨보세요.",
-        "usageGuide": " ",
+        "id": "591e03fc-9a0f-46c5-b51f-524a0d347405",
+        "name": "매점",
+        "description": "",
+        "usageGuide": "- 이용 시간: 08:00 ~ 23:00\n- 판매 품목: 라면, 주류, 음료, 아이스크림, 얼음, 일회용품, 기본 양념 ",
         "displayOrder": 5,
         "images": [
           {
-            "id": "3a3cc7c7-d415-4952-9c6a-b0899bbe80e1",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068418-5b75b4v7p1.jpg",
+            "id": "8c89c122-06cf-452c-b6b5-a79376c83e5d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/591e03fc-9a0f-46c5-b51f-524a0d347405/main/1782196454853-vsxtjw56z1.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "87c1d79a-8c3c-46cc-94e0-3607f6db9474",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068391-vz7351pdej.jpg",
+            "id": "cc86fc11-753b-4879-8d8a-085561474ddd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/591e03fc-9a0f-46c5-b51f-524a0d347405/main/1782196454871-6m4tjaje94.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "19561195-3b28-4d38-9e52-095d53a84899",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068415-0evqhz4cib.jpg",
+            "id": "15d6f08f-736e-4db2-b05e-c567900c7862",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/591e03fc-9a0f-46c5-b51f-524a0d347405/main/1782196454881-fehf3swz12.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "6873a6ac-57d0-4450-a2cc-686b9a102ebf",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/17e6ab40-7d01-46e4-9fd6-5a58cb9a2796/main/1782106068419-0ckwwegb7k.jpg",
+            "id": "9732d6c3-d2f2-4994-8c97-13cc19481ea8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/591e03fc-9a0f-46c5-b51f-524a0d347405/main/1782196454883-zkzbj6x9lh.jpg",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "7c4a2d55-e7cf-4f38-8357-1fb861404d6f",
+        "name": "카페",
+        "description": "-",
+        "usageGuide": "[카페]\n- 이용 시간: 09:00 ~ 21:00",
+        "displayOrder": 6,
+        "images": [
+          {
+            "id": "7044ec07-4aa7-4ce6-8617-715c14593157",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7c4a2d55-e7cf-4f38-8357-1fb861404d6f/main/1782196314076-spqlzru2wq.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2fbec3f2-55d9-46e3-8a07-998aa46f17d5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7c4a2d55-e7cf-4f38-8357-1fb861404d6f/main/1782196314103-qwg1dbu0ok.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a483a3-7efe-4c28-a70d-8cb2d7d05308",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7c4a2d55-e7cf-4f38-8357-1fb861404d6f/main/1782196314102-2a64zzdxwo.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "80fd1b55-32f9-4cdd-99df-4cb09f56d3ec",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/7c4a2d55-e7cf-4f38-8357-1fb861404d6f/main/1782196314082-gj02xj91oh.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "41e7ecf4-2e59-4a0c-8704-42d56f7336e2",
+        "name": "노래방",
+        "description": "노래방 기계가 준비되어 즐거운 시간을 보낼 수 있습니다.",
+        "usageGuide": "[야외노래방]\n- 이용 시간: 입실 ~ 23:00\n- 이용 요금: 1시간 30,000원 (1박기준/현장결제)\n[대형룸 객실 시설]\n- 노래방: 1시간 50,000원 / 이용 시간 ~23:00\n- 빔프로젝터: 50,000원\n- 악기+프로젝트: 150,000원 (관계자 외 만질 수 없음, 필요시 상의 필요, 드럼 사용 시 개인 스틱 지참 필요)\n- 실외등 23:00 소등",
+        "displayOrder": 7,
+        "images": [
+          {
+            "id": "c53f8744-69fa-4ca5-9cde-3b34aec038a4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/41e7ecf4-2e59-4a0c-8704-42d56f7336e2/main/1782196617942-5bktx1tnvf.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e1b8e319-3998-498c-be01-6ede7daaddbc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/41e7ecf4-2e59-4a0c-8704-42d56f7336e2/main/1782196617959-xe2hxn0hwa.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2f236153-90ae-4818-8e41-3783408e2777",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/41e7ecf4-2e59-4a0c-8704-42d56f7336e2/main/1782196617960-48nt1pm9p6.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "2d1f9625-b5b0-49ac-a741-c6f1a19303b9",
+        "name": "부대시설",
+        "description": "생맥주 기계와 보드게임이 준비되어 있습니다.",
+        "usageGuide": "[매점]\n- 이용 시간: 08:00 ~ 23:00\n- 판매 품목: 라면, 주류, 음료, 아이스크림, 얼음, 일회용품, 기본 양념\n[카페]\n- 이용 시간: 09:00 ~ 21:00\n[야외노래방]\n- 이용 시간: 입실 ~ 23:00\n- 이용 요금: 1시간 30,000원 (1박기준/현장결제)\n[대형룸 객실 시설]\n- 노래방: 1시간 50,000원 / 이용 시간 ~23:00\n- 빔프로젝터: 50,000원\n- 악기+프로젝트: 150,000원 (관계자 외 만질 수 없음, 필요시 상의 필요, 드럼 사용 시 개인 스틱 지참 필요)\n- 실외등 23:00 소등",
+        "displayOrder": 8,
+        "images": [
+          {
+            "id": "2b2f8594-e677-47cc-9480-29d65df8e442",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1782196617216-d6sf5hbp87.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8644321c-ab68-4bfb-a673-a833d0a107d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1782196617212-dm5c05d6ib.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "765a4080-5708-4990-ace7-76c576aedb8e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d1f9625-b5b0-49ac-a741-c6f1a19303b9/main/1782196617275-lglib6awlu.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2961,7 +3012,7 @@
         }
       },
       "property": {
-        "name": "가평 이룸 펜션",
+        "name": "가평 이룸 독채 펜션",
         "images": [
           {
             "id": "8af885dc-1d99-410d-98ec-7798a4949a7a",
