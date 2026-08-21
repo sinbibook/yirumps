@@ -54,6 +54,13 @@ class LayoutMapMapper extends BaseDataMapper {
         if (pageTitle) {
             pageTitle.textContent = `배치도 - ${propertyNameEn}`;
         }
+
+        // 네이버/구글 사이트 인증 meta 태그 주입 (전 페이지 공통)
+        const seo = this.safeGet(this.data, 'homepage.seo');
+        if (seo) {
+            this.upsertMetaByName('naver-site-verification', seo.naverSiteVerification);
+            this.upsertMetaByName('google-site-verification', seo.googleSiteVerification);
+        }
     }
 
     /**
@@ -192,9 +199,8 @@ class LayoutMapMapper extends BaseDataMapper {
 
         if (images.length > 0 && images[0]) {
             if (images[0].isSelected) {
-                // isSelected가 true면 표시
+                // isSelected가 true면 이미지 표시
                 if (imgContainer) imgContainer.style.display = '';
-                if (descContainer) descContainer.style.display = '';
 
                 if (imgEl && images[0].url) {
                     imgEl.src = images[0].url;
@@ -202,10 +208,17 @@ class LayoutMapMapper extends BaseDataMapper {
                     imgEl.classList.remove('empty-image-placeholder');
                 }
 
-                // 설명 매핑
-                if (descEl && images[0].description) {
-                    const sanitized = this.sanitizeText(images[0].description);
-                    descEl.innerHTML = sanitized.replace(/\n/g, '<br>');
+                // 설명 매핑 - 내용이 없으면 영역 자체를 숨김
+                if (descEl) {
+                    if (images[0].description) {
+                        const sanitized = this.sanitizeText(images[0].description);
+                        descEl.innerHTML = sanitized.replace(/\n/g, '<br>');
+                        if (descContainer) descContainer.style.display = '';
+                    } else {
+                        // 설명값이 비면 이전 텍스트 제거 + 영역 숨김
+                        descEl.innerHTML = '';
+                        if (descContainer) descContainer.style.display = 'none';
+                    }
                 }
             } else {
                 // isSelected가 false면 숨김
@@ -223,9 +236,8 @@ class LayoutMapMapper extends BaseDataMapper {
             const descContainer = descEl?.closest('.layout-map-description-item');
 
             if (imageData && imageData.isSelected) {
-                // isSelected가 true면 표시
+                // isSelected가 true면 이미지 표시
                 if (imgContainer) imgContainer.style.display = '';
-                if (descContainer) descContainer.style.display = '';
 
                 if (imgEl && imageData.url) {
                     imgEl.src = imageData.url;
@@ -233,10 +245,17 @@ class LayoutMapMapper extends BaseDataMapper {
                     imgEl.classList.remove('empty-image-placeholder');
                 }
 
-                // 설명 매핑
-                if (descEl && imageData.description) {
-                    const sanitized = this.sanitizeText(imageData.description);
-                    descEl.innerHTML = sanitized.replace(/\n/g, '<br>');
+                // 설명 매핑 - 내용이 없으면 영역 자체를 숨김
+                if (descEl) {
+                    if (imageData.description) {
+                        const sanitized = this.sanitizeText(imageData.description);
+                        descEl.innerHTML = sanitized.replace(/\n/g, '<br>');
+                        if (descContainer) descContainer.style.display = '';
+                    } else {
+                        // 설명값이 비면 이전 텍스트 제거 + 영역 숨김
+                        descEl.innerHTML = '';
+                        if (descContainer) descContainer.style.display = 'none';
+                    }
                 }
             } else {
                 // isSelected가 false면 숨김
