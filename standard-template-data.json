@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-08-31T01:38:16.789833339Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-08-31T01:40:06.281824934Z",
     "templateType": "full_banner_wipe",
     "propertyId": "795ca91f-550e-4564-b245-bcb2a38aa884",
     "homepageId": "5d0bab37-c08c-4b7c-98b8-0fc6a810f186"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "yirumps.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/12566",
+    "realtimeBookingId": "https://m.booking.naver.com/booking/3/bizes/1723359",
     "ybsId": "81145",
     "amenities": [
       "흡연구역(지정장소)",
