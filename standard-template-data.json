@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.31.0",
-    "generatedAt": "2026-11-09T08:34:41.615145561Z",
+    "version": "1.32.0",
+    "generatedAt": "2026-11-09T08:51:29.662596886Z",
     "templateType": "full_banner_wipe",
     "propertyId": "795ca91f-550e-4564-b245-bcb2a38aa884",
     "homepageId": "5d0bab37-c08c-4b7c-98b8-0fc6a810f186"
@@ -29,6 +29,9 @@
     "domain": "yirumps.kr",
     "realtimeBookingId": "https://m.booking.naver.com/booking/3/bizes/1723359",
     "ybsId": "81145",
+    "tripPropertyId": "12566",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "주차장",
       "편의점/매점",
@@ -551,10 +554,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "12566",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
